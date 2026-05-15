@@ -13,8 +13,8 @@
 
 <br/>
 
-> **⚠️ Under Development**
-> New sections, features, and refinements are continuously being shipped.
+> **Access link **
+> [clicking here.](https://adansiqueira.github.io/modern-ui-ux/)
 
 </div>
 
